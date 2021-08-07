@@ -118,5 +118,10 @@
     width: 100%;
     
   }
+@media (max-width: 560px){
+   .skill-bars{
+    padding: 45px 30px;
+    width: 100%;
+  }
 
 }

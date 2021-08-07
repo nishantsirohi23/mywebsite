@@ -1,3 +1,4 @@
+
 .skill-bars{
   padding: 45px 30px;
   width: 600px;
@@ -110,4 +111,12 @@
 }
 .progress-line.mysql span::after{
   content: "75%";
+}
+@media (max-width: 1000px){
+  .skill-bars{
+    padding: 45px 30px;
+    width: 100%;
+    
+  }
+
 }
